@@ -33,3 +33,7 @@ scope = [ float, float ] - Scope of possible chromosome values
 selection_size = ( int ) - Number of individuals we will compare in the selection
 fitness_function = func() - The fitness function and the function we are trying to minimize
 ```
+
+## Live Demo with Graphs ##
+
+https://colab.research.google.com/drive/1QYukW55F93UmyfCZO17vpSYpp46Tiqf5
