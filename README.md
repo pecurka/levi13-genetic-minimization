@@ -9,7 +9,7 @@ The algorithm uses the following:
 3. Uniform mutation that uses a random value from the scope
 4. The fitness function is the function we are minimizing, in this case the Levi number 13 function: `f(x, y) = sin^23πx + (x - 1)^2(1 + sin^23πy) + (y - 1)^2(1 + sin^22πy)`
 
-## Set up ##
+## Set Up ##
 
 To set the project up you need to have Python 3 installed on your system. To run it use the command:
 
@@ -17,7 +17,7 @@ To set the project up you need to have Python 3 installed on your system. To run
 python main.py
 ```
 
-## Config parameters ##
+## Configuration Parameters ##
 
 All configuration parameters are in the file `config.py`. You can change them to change the way the algoritm functions.
 
