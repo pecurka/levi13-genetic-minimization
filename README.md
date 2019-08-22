@@ -7,7 +7,8 @@ The algorithm uses the following:
 1. A continuous genetic algorithm
 2. BLX-alpha crossover
 3. Uniform mutation that uses a random value from the scope
-4. The fitness function is the function we are minimizing, in this case the Levi number 13 function: `f(x, y) = sin^23πx + (x - 1)^2(1 + sin^23πy) + (y - 1)^2(1 + sin^22πy)`
+4. The fitness function is the function we are minimizing, in this case the Levi number 13 function:
+`f(x, y) = sin^23πx + (x - 1)^2(1 + sin^23πy) + (y - 1)^2(1 + sin^22πy)`
 
 ## Set Up ##
 
