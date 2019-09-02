@@ -56,7 +56,7 @@ We get the following graph as a result:
 
 ![Result Graph](https://raw.githubusercontent.com/pecurka/levi13-genetic-minimization/master/graph_screenshot.JPG)
 
-As we can see each generation quickly starts convergating towards 0, usually finishing in about 25 generations on average reaching the global minimum of `f(x) = 0` for `x = [1.0, 1.0]`.
+As we can see each generation quickly starts converging towards 0, usually finishing in about 25 generations on average reaching the global minimum of `f(x) = 0` for `x = [1.0, 1.0]`.
 
 
 ## Live Demo with Graphs ##
